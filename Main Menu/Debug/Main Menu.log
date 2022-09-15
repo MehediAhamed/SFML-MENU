@@ -1,0 +1,32 @@
+﻿  teacher_menu.cpp
+E:\Demo Project\Main Menu\teacher_menu.cpp(16,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Demo Project\Main Menu\teacher_menu.cpp(24,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Demo Project\Main Menu\teacher_menu.cpp(30,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Demo Project\Main Menu\teacher_menu.cpp(37,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Demo Project\Main Menu\teacher_menu.cpp(44,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Demo Project\Main Menu\teacher_menu.cpp(51,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Main Menu.vcxproj -> E:\Demo Project\Main Menu\Debug\Main Menu.exe
